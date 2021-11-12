@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PR5_AbramovKotlin</string>
+    <string name="argen">Флаг Аргентины</string>
+    <string name="brazil">Флаг Бразилии</string>
+    <string name="chile">Флаг Чили</string>
+    <string name="columbia">Флаг Колумбии</string>
+    <string name="urugv">Флаг Уругвая</string>
+</resources>
